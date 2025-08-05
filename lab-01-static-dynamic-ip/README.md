@@ -57,5 +57,3 @@ Assigned an **Elastic IP (EIP)** to the EC2 instance to make the public IP persi
 
 ---
 
-# Allocate and associate an Elastic IP in the AWS Console
-
